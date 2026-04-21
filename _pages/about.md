@@ -12,8 +12,8 @@ redirect_from:
 Before starting my PhD journey at UofA, I earned my Masters' degree in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), advised by [Prof. Ruimao Zhang](http://zhangruimao.site/). Prior to that, I obtained my Bachelors' in [University of Science and Technology Beijing](https://en.ustb.edu.cn/), advised by Prof. Sen Wu. In non-academic contexts, I am into cooking, sports such as badminton, swimming and gym. 
 
 # Research Interests
-* Reinforcement Learning
 * Multi-agent Systems for Healthcare
+* Trustworthy AI
 * Natural Language Processing, Computer Vision
 
 # Education
